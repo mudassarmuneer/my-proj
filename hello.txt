@@ -1,4 +1,2 @@
 Hello, Git!
 Feature in progress...
-New feature added.
-New feature not working.
